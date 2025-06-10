@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.ypzdw.yaoyi",
+               "sha256_cert_fingerprints": ["FF:15:CB:89:51:FD:8E:C9:5D:25:17:D2:2F:32:B6:12:19:09:12:B6:D9:BB:94:FC:37:CD:3A:48:A6:49:8C:9C"] }
+}]
